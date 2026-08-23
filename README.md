@@ -11,7 +11,7 @@ MIS graduate from University of Jeddah (June 2026), passionate about turning dat
 ## Skills
 
 - **Analytics:** Power BI, DAX, Power Query, Excel
-- **Programming:** Python, SQL
+- **Programming:** Python (pandas, numpy), SQL
 - **Process:** Requirements Analysis, Workflow Design, UX Evaluation
 - **Automation:** Power Automate (in progress)
 
