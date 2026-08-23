@@ -16,7 +16,3 @@ MIS graduate from University of Jeddah (June 2026), passionate about turning dat
 - **Automation:** Power Automate (in progress)
 
 ---
-
-## Featured Projects
-
-- **Healthcare Analytics Dashboard** — 6-page Power BI dashboard analyzing hospital data across financial, clinical, and operational dimensions
